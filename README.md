@@ -43,3 +43,54 @@ Make sure all images are correctly named and saved in the project folder.
 ---
 
 ## 📁 Project Structure
+project-folder/
+│── index.html
+│── about.html
+│── events.html
+│── join.html
+│── style.css
+│── hero.jpg
+│── about.jpg
+│── feature1.png
+│── feature2.png
+│── feature3.png
+
+
+---
+
+## 🚀 Features
+- Modern hero section with background image  
+- Fixed navigation bar (always visible on scroll)  
+- Attractive graphic cards  
+- Simple & clean layout  
+- Fully responsive Flexbox events section  
+- Valid HTML5 structure  
+- Styled Join Form  
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5**
+- **CSS3**
+- **Flexbox**
+- **Basic Layout & Styling**
+
+No JavaScript or external libraries were used (as per assignment rules).
+
+---
+
+## 📥 How to Run
+1. Download or clone the repository.  
+2. Make sure all images are inside the project folder.  
+3. Open `index.html` in any web browser (Chrome, Edge, Firefox).  
+
+---
+
+## ✨ Author
+Developed by **Vipul** for college assignment and practice.
+
+---
+
+## ✔️ License
+This is an open project meant for educational purposes.  
+Feel free to modify and improve it!
